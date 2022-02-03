@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
         let res = await fetch(global.API('xteam', '/randomimage/ero', {}, 'APIKEY'))
         let img = await res.buffer()
         conn.sendMessage(m.chat, img, MessageType.image, {
-            quoted: m, caption: '*© AlyaaXzy*'
+            quoted: m, caption: '*© Kadrian*'
         })
     } catch (e) {
         console.log(e)
@@ -18,6 +18,7 @@ handler.help = ['ero']
 handler.tags = ['anime','premium']
 handler.command = /^ero$/i
 handler.premium = true
-handler.register = true
-
-module.exports = handler
+pawang . daftar  =  benar
+saya
+modul . ekspor   =   penangan
+saya
