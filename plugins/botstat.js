@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
     let str = `
-┌─〔 Info AlyaaXzy Botz 〕
+┌─〔 Info Kadrian Botz 〕
 │Name: AlyaaXzy
 │Main Owner: AlyaaXzy
 │Operated Since: 19 September 2021
