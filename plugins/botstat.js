@@ -10,8 +10,8 @@ let handler = async (m, { conn }) => {
 
     let str = `
 ┌─〔 Info Kadrian Botz 〕
-│Name: AlyaaXzy
-│Main Owner: AlyaaXzy
+│Name: Kadrian
+│Main Owner: Kadrian
 │Operated Since: 19 September 2021
 │Language Used: Nodejs (JS)
 │Server: Heroku
